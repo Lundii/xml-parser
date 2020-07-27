@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users>
+  <user id="1">
+    <firstname>Monday</firstname>
+    <lastname>Onu</lastname>
+    <email>onumonday@gmail.com</email>
+    <password>onumonday</password>
+  </user>
+  <user id="2">
+    <firstname>Tuesday</firstname>
+    <lastname>Wednesday</lastname>
+    <email>tuesdaywednesday@gmail.com</email>
+    <password>tuesdaywednesday</password>
+  </user>
+  <user id="3">
+    <firstname>Thursday</firstname>
+    <lastname>Friday</lastname>
+    <email>tursdayfriday@gmail.com</email>
+    <password>thursdayfriday</password>
+  </user>
+  <user id="4">
+    <firstname>Saturday</firstname>
+    <lastname>Sunday</lastname>
+    <email>saturdaysunday@gmail.com</email>
+    <password>saturdaysunday</password>
+  </user>
+  <user id="5">
+    <firstname>January</firstname>
+    <lastname>February</lastname>
+    <email>januaryfebruary@gmail.com</email>
+    <password>januaryfebruary</password>
+  </user>
+  <user id="6">
+    <firstname>March</firstname>
+    <lastname>April</lastname>
+    <email>marchapril@gmail.com</email>
+    <password>marchapril</password>
+  </user>
+  <user id="7">
+    <firstname>May</firstname>
+    <lastname>June</lastname>
+    <email>mayjune@gmail.com</email>
+    <password>mayjune</password>
+  </user>
+  <user id="8">
+    <firstname>July</firstname>
+    <lastname>August</lastname>
+    <email>julyaugust@gmail.com</email>
+    <password>julyaugust</password>
+  </user>
+  <user id="9">
+    <firstname>September</firstname>
+    <lastname>October</lastname>
+    <email>septemberoctober@gmail.com</email>
+    <password>septemberoctober</password>
+  </user>
+  <user id="10">
+    <firstname>November</firstname>
+    <lastname>December</lastname>
+    <email>novemberdecember@gmail.com</email>
+    <password>novemberdecember</password>
+  </user>
+</users>
